@@ -1,1 +1,0 @@
-- [OpenAPI integer compatibility](openapi-integer-compatibility.md) — use numeric schemas until the workspace validator supports generated `z.int()`.
